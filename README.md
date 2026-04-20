@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GyanUday University — College Management System
 
 A full-stack Django project built as a 7-phase teaching project for 3rd year B.Tech students.
@@ -54,3 +55,6 @@ fees/         Fee management, Payment tracking
 results/      Exams, Marks, Signals, Activity Log
 dashboard/    Live dashboard with Chart.js
 ```
+=======
+# gayn_uday_fixed
+>>>>>>> 257556f0fb22f0023566ab39dbdad21ca9afdd25
